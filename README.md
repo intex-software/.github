@@ -1,1 +1,1 @@
-# .github
+[intex.software](https://intex.software/)
